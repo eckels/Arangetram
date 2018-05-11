@@ -63,6 +63,7 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: .75em;
+  border: none;
   padding: 12px 20px 8px 20px;
   border-radius: 25px;
   cursor: pointer;
